@@ -9,3 +9,6 @@ as similar in frequency between the texts.
 
 This was mostly written before the start of November, so doesn't really count
 as a NaNoGenMo entry, but it's kind of fun anyway.
+
+pip3 install click, gensim 
+python3 mashup.py mash input/alices.txt input/bible.txt
